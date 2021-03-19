@@ -1,5 +1,7 @@
 ﻿# NumberGuessing
 
+Mastermind - Bulls and Cows
+ 
 ### Kullanım
 
 1. Repository kopyalayın
