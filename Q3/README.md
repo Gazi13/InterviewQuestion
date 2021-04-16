@@ -6,9 +6,6 @@ This project include
 * Crop the part containing information.
 * Show 10 examples 
 
-<img src="sample.png"/>
+<img src="show.gif"/>
 
----
-
-<img src="sample-corner.png"/>
 
